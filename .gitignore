@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+
+# Compiled binary
+hospital
+
+# Editor backups
+*~
+*.swp
+
+# Logs and databases
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Exclude sensitive or temporary data files
+src/*.txt
